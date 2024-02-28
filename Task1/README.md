@@ -2,10 +2,9 @@ Task-1
 
 ATM INTERFACE
 
-Work Space:Appache Netbeans
+Work Space: Appache Netbeans
 
 Project Description:
-
 The project is a simple ATM simulation implemented in Java. It includes two classes, BankAccount and ATM. The BankAccount class manages the user's account balance with methods for deposit and withdrawal. The ATM class provides a text-based menu for users to check balance, deposit, withdraw, or exit the program. Input validation is implemented to handle potential errors
 
 ![Screenshot 2024-02-28 221156](https://github.com/siddumr/Codesoft/assets/125337449/199a0f8c-d461-4f73-962e-a5540dbfddbe)
